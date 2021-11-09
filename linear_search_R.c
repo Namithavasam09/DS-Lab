@@ -26,3 +26,7 @@ int main(){
     else
         printf("Element found at %d postion",pos+1);
 }
+/*Enter the number of elements:5
+  Enter array elements:1 2 3 4 5
+  Element to be searched:3
+  Element found at 2 postion*/
