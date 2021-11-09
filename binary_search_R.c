@@ -28,4 +28,7 @@ int binary_search(int a[],int beg,int end,int ele){
             else
                 return -1;
     }
-
+ /*Enter the number of elements:5
+    Enter the array elements:10 20 30 40 50
+    Element to be searched:30
+ Element found at 2 postion*/
