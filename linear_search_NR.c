@@ -24,4 +24,8 @@ int linear_Search(int a[],int n,int ele){
         }
     }return -1;
 }
+ /*Enter the number of elements in array:5
+    Enter the array elements:10 20 30 40 50
+    Enter the Element to be searched:30
+ Element found at 2 postion*/
 
