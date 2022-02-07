@@ -1,4 +1,4 @@
-[0:29 pm, 01/02/2022] Indu: #include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 struct node{
 	int data;
